@@ -1,2 +1,2 @@
 # Add your variables here
-fisrt_variable = 69
+first_variable = 69
